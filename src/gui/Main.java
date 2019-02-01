@@ -16,7 +16,7 @@ public class Main extends Application implements Observer{
     private Account account = new Account("User1");
 
     Stage window;
-    BorderPane mainPane= new BorderPane();;
+    BorderPane mainPane= new BorderPane();
     Scene scene;
     TaskDisplay tdisplay = new TaskDisplay();
     TaskDisplay2 tdisplay2 = new TaskDisplay2();
