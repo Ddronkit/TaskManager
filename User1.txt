@@ -1,0 +1,75 @@
+To Do List
+[Apple, , , false, Normal]
+[Apple juice, , , false, Normal]
+[Breakfast, , , false, Normal]
+[CPSC 210 Midterm, 18:30, 10/15, false, Normal]
+[Cheese, 06:00, 01/31, false, Normal]
+[Date, 10:00, , false, Personal]
+[Homework, , , false, Personal]
+[Lunch, , 09/01, false, Normal]
+[Orange, , , false, Normal]
+[School, 09:00, 09/30, true, Personal]
+[Umbrella 2, , , false, Normal]
+
+My List
+[Date, 10:00, , true, Personal]
+[Homework, 16:00, 09/30, true, Personal]
+[Lab, , , false, Normal]
+[Lunch, , 09/01, false, Normal]
+
+Superstore @
+[Apple juice, , , false, Normal]
+[Cheese, , , false, Normal]
+[Cookie, , , false, Normal]
+[Egg, , , false, Normal]
+[beef stock, , , false, Normal]
+
+Safe On @
+[Bacon, 12:00, , false, Normal]
+[Bacon, , , false, Normal]
+[Cheese, , , false, Normal]
+[Chicken, , , false, Normal]
+[Meat, , , true, Normal]
+
+Course Year 1
+[apsc 151, , , true, Normal]
+[apsc 160, , , true, Normal]
+[biol 111, , , false, Normal]
+[chem 121, , , true, Normal]
+[cpsc 110, , , true, Normal]
+[cpsc 121, , , true, Normal]
+[econ 101, , , true, Normal]
+[econ 102, , , true, Normal]
+[engl 110, , , false, Normal]
+[engl 112, , , true, Normal]
+[hebr 100, , , true, Normal]
+[math 100, , , true, Normal]
+[math 101, , , true, Normal]
+[phys 101, , , true, Normal]
+[phys 102, , , true, Normal]
+[psyc 101, , , true, Normal]
+[psyc 102, , , true, Normal]
+
+Course Year 2
+[cpsc 210, , , true, Normal]
+[cpsc 213, , , false, Normal]
+[cpsc 221, , , false, Normal]
+[math 200, , , true, Normal]
+[math 221, , , true, Normal]
+[stat 200, , , true, Normal]
+
+Course Year 3
+[atsc 301 (3), , , true, Normal]
+[cpsc 310 (3), , , false, Normal]
+[cpsc 313 (3), , , false, Normal]
+[cpsc 319 (3), , , false, Normal]
+[cpsc 320 (4), , , false, Normal]
+[fnh 300 (3), , , true, Normal]
+[stat 302 (3), , , false, Normal]
+
+Course Year 4
+[cpsc 406, , , false, Normal]
+[cpsc 424, , , false, Normal]
+[cpsc 425, , , false, Normal]
+
+REDB**

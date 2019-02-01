@@ -1,0 +1,38 @@
+.root{
+    -fx-background-color: linear-gradient(rgba(253,215,228), rgba(255,255,255));
+
+}
+
+.button{
+    -fx-background-color: rgba(255,255,255);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.2) , 1, 0.0 , 0 , 1);
+}
+
+.combo-box{
+    -fx-background-color: rgba(255,255,255);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.2) , 1, 0.0 , 0 , 1);
+}
+
+.combo-box .list-cell
+{
+    -fx-background: white;
+    -fx-background-color: white;
+    -fx-text-fill: rgba(0,0,0);
+
+}
+
+.combo-box-popup .list-view .list-cell:filled:hover
+{
+    -fx-background-color: rgba(253,215,228);
+    -fx-text-fill: -fx-text-inner-color;
+}
+
+
+.menu-bar {
+    -fx-background-color: rgba(255,255,255);
+    -fx-padding:0px;
+}
+
+.menu-bar > .container > .menu-button {
+   -fx-background-color: linear-gradient(rgba(253,255,255),rgba(253,215,228)) ;
+}

@@ -1,0 +1,67 @@
+.root{
+
+    -fx-background-color: linear-gradient(#363634, rgba(100,100,100));
+
+}
+
+.button{
+    -fx-background-color: #cf231d;
+    -fx-text-fill: rgba(255,255,255);
+    -fx-effect: dropshadow( three-pass-box , rgba(255,255,255,0.2) , 1, 0.0 , 0 , 1);
+}
+
+.combo-box{
+    -fx-background-color: #cf231d;
+    -fx-text-fill: rgba(255,255,255);
+    -fx-effect: dropshadow( three-pass-box , rgba(255,255,255,0.2) , 1, 0.0 , 0 , 1);
+}
+
+.combo-box .list-cell
+{
+    -fx-background: white;
+    -fx-background-color: #cf231d;
+    -fx-text-fill: rgba(255,255,255);
+
+}
+
+.combo-box-popup .list-view .list-cell:filled:hover
+{
+    -fx-background-color: white;
+    -fx-text-fill: -fx-text-inner-color;
+}
+
+.label{
+    -fx-text-fill: rgba(255,255,255);
+    -fx-effect: dropshadow( three-pass-box , rgba(255,255,255,0.2) , 1, 0.0 , 0 , 1);
+}
+
+.menu-bar {
+    -fx-background-color: rgba(73,73,73);
+    -fx-padding:0px;
+}
+
+.menu-bar > .container > .menu-button {
+   -fx-text-fill: rgba(0,0,0);
+   -fx-background-color: linear-gradient(#cf231d, #363634);
+}
+
+.menu-item {
+    -fx-background-color: #363634;
+}
+
+.menu-item .label {
+    -fx-text-fill: rgba(255,255,255);
+}
+
+.menu-item:focused, .menu-item:hovered {
+    -fx-background-color: rgba(255,255,255);
+
+}
+.menu-item:focused .label, .menu-item:hovered .label {
+    -fx-text-fill: rgba(0,0,0);
+}
+
+.context-menu {
+    -fx-background-color: rgba(73,73,73);
+    -fx-effect: dropshadow( three-pass-box , rgba(60,61,59,0.2) , 1, 0.0 , 0 , 1);
+}

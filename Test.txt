@@ -1,0 +1,6 @@
+test1
+[School, 09:00, 09/24, false, Normal]
+[Date, 10:00, , true, Normal]
+[Lunch, , 09/00, true, Normal]
+[Homework, , , true, Normal]
+
