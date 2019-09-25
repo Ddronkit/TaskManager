@@ -1,3 +1,2 @@
 # UrTaskManager
-You can find the jar file in the applicaiton folder, enjoy!
-Remeber to also get the User1.txt
+To try running the application, download the UrTaskManager.zip file and get started!!
